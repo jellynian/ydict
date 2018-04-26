@@ -15,4 +15,4 @@ golang ydict Termial client
 
 
 
-[img](2A565236FFF20E6289072417F088AC36.gif)
+![img](2A565236FFF20E6289072417F088AC36.gif)
